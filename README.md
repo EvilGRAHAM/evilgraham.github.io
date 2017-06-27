@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/EvilGRAHAM/evilgraham.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my peronal GitHub page! I'll be perfectly frank and say I have no idea what I'm doing with this page, or really how to use markdown, so a lot of the stuff on here is me messing around with it. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My background is in Stats and Finance, as I'm currently completing my Bachelor in both of them at the University of Calgary. Over the last few years I've learned how to code in R, Python3, T-SQL, and some VBA, but please never ask me to look at it, as I despise that language...
 
-### Markdown
+## What I'm Currently working on...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EvilGRAHAM/evilgraham.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A lot of my time is being spent on data visualisation, and how companies can use it to improve data literacy, and allow for data driven decision making throughout the organization. [Big Data Baseball: Math, Miracles, and the End of a 20-Year Losing Streak by Travis Sawchik](http://www.goodreads.com/book/show/22895690-big-data-baseball) provides some really good anecdotes on this idea, and how in a very old school clubhouse, the Pittsburgh Pirates were able to embrace this philosphy, and proceeded to have their first winning season in 20 years. I'd highly recommend it to baseball fans, or people looking at adopting this idea.
